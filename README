@@ -1,0 +1,51 @@
+WHAT IS ELECTRICBOOKS SOLUTION?
+-------------------------------
+Electricbooks is a solution for distributing PDFs to iPhone and iPad users.
+
+VERSION
+-------
+* Electricbooks Framework - 1.2.8
+* Electric Publisher - 1.2.4
+
+FEATURS
+-------
+* PDF distribution solution for iPhone and iPad platform
+* It supports store (kiosk) feature to sell PDF contents via (In-App-Purchase)
+* No complex server component required (You still need Web Server though)
+* Equipped high performance PDF viewer engine
+* Authering tools for preparing uploadable contents (Mac OS X)
+* Digital Rights Management (copy protection ready)
+* You may submit your PDF store app in half day.
+	but designing icon may takes longer than that...
+* Story Escorting -- by swiping guide you frame by frame to follow text story
+
+LIMITATION
+----------
+* You can try full functionalities on simulators and devices, except...
+* You will find watermark on the middle of the screen.
+* InDesign plug-in is not included.
+
+PRICING AND SUPPORT
+-------------------
+Please contact support@electricwoods.com.
+
+WHAT'S IN THE PACKAGE?
+----------------------
+* Electricbooks framework - Static library and Xcode template project
+* Electric Publisher - Mac OS X based authoring software
+* Integrartion Guide - Documentation in English
+
+LICENSE
+-------
+You can build your demo for your client under MIT license.  But you need to
+purchase license if you distribute your app through AppStore or under 
+Enterprise program.
+
+PRICING & SUPPORT
+-----------------
+Please conatct to support@electricwoods.com
+
+Thank you,
+
+
+
